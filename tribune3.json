@@ -1,0 +1,51 @@
+{
+  "name": "T1",
+  "TribuneId": 1,
+  "description": "In the Main Grandstand, positioned alongside the start/finish straight, the spectators will see the stunning opening ceremony, the start of the race, the masterful work of mechanics during the pit stops, drivers fighting for the first turn as well as the winner's finish.",
+  "sectors": [
+    {
+      "sectorId": 1,
+      "price": 3000,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [0, 0, 0, 0, 0, 0]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [0, 0, 0, 0, 0, 0]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [0, 0, 0, 0, 0, 0]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [0, 0, 0, 0, 0, 0]
+        }
+      ]
+    },
+    {
+      "sectorId": 2,
+      "price": 2500,
+      "rows": [
+        {
+          "rowNumber": 1,
+          "seats": [0, 0, 0, 0, 0, 0]
+        },
+        {
+          "rowNumber": 2,
+          "seats": [0, 0, 0, 0, 0, 0]
+        },
+        {
+          "rowNumber": 3,
+          "seats": [0, 0, 0, 0, 0, 0]
+        },
+        {
+          "rowNumber": 4,
+          "seats": [0, 0, 0, 0, 0, 0]
+        }
+      ]
+    }
+  ]
+}

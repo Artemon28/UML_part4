@@ -1,0 +1,16 @@
+{
+  "tribunes": [
+    {
+      "id": 1,
+      "fileName": "tribune1.json"
+    },
+    {
+      "id": 2,
+      "fileName": "tribune2.json"
+    },
+    {
+      "id": 3,
+      "fileName": "tribune3.json"
+    }
+  ]
+}
